@@ -1,6 +1,6 @@
-## Hi there 👋
+## Skill
 
  
 
-![](https://skillicons.dev/icons?i=html,css,js,typescript,python,cpp)
+![](https://skillicons.dev/icons?i=html,css,flutter,firebase,kotlin,python,cpp)
 
